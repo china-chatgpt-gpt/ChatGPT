@@ -2,7 +2,7 @@
 
 本项目专门整理了 **[ChatGPT 国内](https://xsimplechat.com)使用指南**，**无需翻墙**，就能**轻松使用 ChatGPT**~   
 
-国内直接用的 [**ChatGPT 中文版**](https://chat.lanjing.pro)，助您在生活、学习和工作中使用上，**无限使用 GPT-4、4o、o1和o3**~
+国内直接用的 [**ChatGPT 中文版**](https://chat.lanjingai.org)，助您在生活、学习和工作中使用上，**无限使用 GPT-4、4o、o1和o3**~
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 1. 为什么选择 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjing.pro) 是 OpenAI 的 ChatGPT 模型开发的中文优化版本，专为国内用户，提供流畅而智能的AI对话体验。
+[**ChatGPT 中文版**](https://chat.lanjingai.org) 是 OpenAI 的 ChatGPT 模型开发的中文优化版本，专为国内用户，提供流畅而智能的AI对话体验。
 
 - **中文语言**：中文语言专门深度优化，提供更准确和自然的对话体验。
 - **无需翻墙**：通过国内镜像网站，就可以快速而稳定地访问。
@@ -37,7 +37,7 @@
 2. **AI智慧岛 ([chat.lify.vip](https://xsimplechat.com/))**  
    **ChatGPT镜像网站**，多功能平台，支持 GPT-4、4o、4o mini 及 o1，适合各类用户需求。
 
-3. **AI指南 ([chat.lanjing.pro](https://chat.lanjing.pro/))**  
+3. **AI指南 ([chat.lanjingai.org](https://chat.lanjingai.org/))**  
    针对创意者，提供 AI 绘画和创作支持，支持 GPT-4、4o。
 
 4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
