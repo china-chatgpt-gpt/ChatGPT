@@ -31,13 +31,13 @@
 
 以下是一些推荐的 **ChatGPT中文版镜像网站**，无需翻墙，顺畅使用 ChatGPT：
 
-1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**   
+1. **极简AI ([xsimplechat.com](https://xsimplechat.com/))**   
    **ChatGPT中文版**，提供支持 GPT-4、4o、o1 及 o3 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT功能，使用简便。
 
-2. **AI智慧岛 ([chat.lify.vip](https://xsimplechat.com/))**  
+2. **蓝鲸AI ([chat.lanjingai.org](https://chat.lanjingai.org))**  
    **ChatGPT镜像网站**，多功能平台，支持 GPT-4、4o、4o mini 及 o1，适合各类用户需求。
 
-3. **AI指南 ([chat.lanjingai.org](https://chat.lanjingai.org/))**  
+3. **AI指南 ([chat.yixiaai.com](https://chat.yixiaai.com))**  
    针对创意者，提供 AI 绘画和创作支持，支持 GPT-4、4o。
 
 4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
@@ -64,7 +64,7 @@
 
 ## 4. 快速使用 ChatGPT 中文版的方法
 
-1. **访问镜像站点**：选择一个推荐的镜像站点（如 [chat.yixiaai.com](https://chat.yixiaai.com/)）。
+1. **访问镜像站点**：选择一个推荐的镜像站点（如 [chat.lanjingai.org](https://chat.lanjingai.org/)）。
 2. **注册或直接使用**：
    - **扫码登录**：微信扫码即可快速访问，无需注册。
    - **免注册体验**：直接输入问题，立即获得智能解答。
