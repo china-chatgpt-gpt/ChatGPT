@@ -1,8 +1,8 @@
-# ChatGPT 国内访问指南~ 无需翻墙，Chat GPT-4、GPT-4o、o1和o3 【2025/09/06 更新】  
+# ChatGPT 国内访问指南~ 无需翻墙，Chat GPT-4、GPT-4o、o1和o3 【2025/09/21 更新】  
 
 本项目专门整理了 **[ChatGPT 国内](https://xsimplechat.com)使用指南**，**无需翻墙**，就能**轻松使用 ChatGPT**~   
 
-国内直接用的 [**ChatGPT 中文版**](https://chat.lanjingai.org)，助您在生活、学习和工作中使用上，**无限使用 GPT-4、4o、o1和o3**~
+国内直接用的 [**ChatGPT 中文版**](https://ai.lanjingai.org)，助您在生活、学习和工作中使用上，**无限使用 GPT-4、4o、o1和o3**~
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 1. 为什么选择 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjingai.org) 是 OpenAI 的 ChatGPT 模型开发的中文优化版本，专为国内用户，提供流畅而智能的AI对话体验。
+[**ChatGPT 中文版**](https://ai.lanjingai.org) 是 OpenAI 的 ChatGPT 模型开发的中文优化版本，专为国内用户，提供流畅而智能的AI对话体验。
 
 - **中文语言**：中文语言专门深度优化，提供更准确和自然的对话体验。
 - **无需翻墙**：通过国内镜像网站，就可以快速而稳定地访问。
@@ -34,7 +34,7 @@
 1. **极简AI ([xsimplechat.com](https://xsimplechat.com/))**   
    **ChatGPT中文版**，提供支持 GPT-4、4o、o1 及 o3 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT功能，使用简便。
 
-2. **蓝鲸AI ([chat.lanjingai.org](https://chat.lanjingai.org))**  
+2. **蓝鲸AI ([ai.lanjingai.org](https://ai.lanjingai.org))**  
    **ChatGPT镜像网站**，多功能平台，支持 GPT-4、4o、4o mini 及 o1，适合各类用户需求。
 
 3. **AI指南 ([chat.yixiaai.com](https://chat.yixiaai.com))**  
@@ -64,7 +64,7 @@
 
 ## 4. 快速使用 ChatGPT 中文版的方法
 
-1. **访问镜像站点**：选择一个推荐的镜像站点（如 [chat.lanjingai.org](https://chat.lanjingai.org/)）。
+1. **访问镜像站点**：选择一个推荐的镜像站点（如 [ai.lanjingai.org](https://ai.lanjingai.org/)）。
 2. **注册或直接使用**：
    - **扫码登录**：微信扫码即可快速访问，无需注册。
    - **免注册体验**：直接输入问题，立即获得智能解答。
