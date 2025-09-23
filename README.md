@@ -1,4 +1,4 @@
-# ChatGPT 国内访问指南~ 无需翻墙，Chat GPT-4、GPT-4o、o1和o3 【2025/09/21 更新】  
+# ChatGPT 国内访问指南~ 无需翻墙，Chat GPT-4、GPT-4o、o1和o3 【2025/09/25 更新】  
 
 本项目专门整理了 **[ChatGPT 国内](https://xsimplechat.com)使用指南**，**无需翻墙**，就能**轻松使用 ChatGPT**~   
 
